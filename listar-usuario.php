@@ -38,6 +38,11 @@ if ($qtd > 0) {
 
 ?>
 
+<br><br>
+<label>Buscar</label>
+        <input type="buscar" name="buscar">
+        <button type="submit" class=>Pesquisar</button> <br>
+        <br>
 <style>
     
 
